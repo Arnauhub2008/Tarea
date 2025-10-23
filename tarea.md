@@ -5,10 +5,10 @@
 En esta tarea, explicaré los conectores externos del panel lateral de una placa base.
 
 #### 1. Ps/2 para el ratón.
-![Conector PS/2 para el ratón] (/img/png-clipart-computer-keyboard-computer-mouse-ps-2-port-computer-port-thong-s-purple-violet.png)
+![Conector PS/2 para el ratón](/img/ PS/2 ratón.png)
 
 #### 2. Ps/2 para teclado.
-
+![Conector PPS/2 para el teclado](/img/ PS/2 teclado.png)
 #### 3. Puerto paralelo.
 Su principal utilidad es como puerto para conectar impresora o escáner.
 
@@ -19,6 +19,7 @@ Es el puerto **Video Graphics Array**, se utiliza para enviar señal de vídeo a
 Sirve para conecta prácticamente cualquier periférico al ordenador
 
 #### 6. Puerto RJ45.
+![Ethernet](/img/puerto_RJ45.png)
 
 #### 7. Jack entrada audio.
 
