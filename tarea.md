@@ -6,9 +6,11 @@ En esta tarea, explicaré los conectores externos del panel lateral de una placa
 
 #### 1. Ps/2 para el ratón.
 ![Conector PS/2 para el ratón](/img/ratón.png)
+Es el anterior puerto para conectar el ratón antiguo.
 
 #### 2. Ps/2 para teclado.
 ![Conector PS/2 para el teclado](/img/teclado.png)
+Es el conector al igual que en el ratón paro este para el teclados antiguos.
 
 #### 3. Puerto paralelo.
 Su principal utilidad es como puerto para conectar impresora o escáner.
