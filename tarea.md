@@ -2,6 +2,7 @@
 #### Conectores Externos de la placa base
 
 ![Conectores Externos placa base](/img/panel-lateral.png)
+
 En esta tarea, explicaré los conectores externos del panel lateral de una placa base.
 
 #### 1. Ps/2 para el ratón.
